@@ -20,6 +20,11 @@ hobby.
 
 ## Main Software
 
-- Operating System: Windows 11, Arch Linux
-- Browser: Firefox
-- IDE/Editor: IntelliJ IDEs, Neovim
+- Operating Systems: Windows 11, macOS Sonoma, Arch Linux
+- Browsers: Brave, Firefox, Safari
+- IDEs/Editors: IntelliJ IDEs, Neovim, VSCodium
+
+## Tech Stack
+
+- Programming Languages: C, C++, Java, Kotlin, Python, Rust, TypeScript
+- Web Frameworks: Nuxt
